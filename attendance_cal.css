@@ -1,0 +1,37 @@
+@media (max-width: 600px) {
+    .input-group {
+        display: block;
+        margin-bottom: 20px;
+    }
+    .calculate_button {
+        width: 100%;
+    }
+}
+.heading {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+.input-group {
+    margin-bottom: 15px;
+    text-align:center;
+
+}
+.calculate_button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/*.output {
+    margin-top: 20px;
+    padding: 10px;
+    color: red;
+    text-align: center;
+}
