@@ -24,9 +24,8 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    margin:20px auto;
 
 }
 /*.output {
